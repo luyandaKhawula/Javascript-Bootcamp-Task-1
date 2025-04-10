@@ -1,5 +1,4 @@
 //Exercise 1
-
 let name = "Luyanda Khawula";
 let age = 23;
 let isStudent = false;
